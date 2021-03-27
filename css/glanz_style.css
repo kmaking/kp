@@ -2786,32 +2786,32 @@ ul.mega-menu {
 
 
 .gla_slider_flower_ii.gla_slider_flower_c1 {
-	background-image: url(../images/fl2_c1.png);
+	background-image: url(../images/fl2_c1-min.png);
 	width: 400px;
 	height: 454px;
 }
 .gla_slider_flower_ii.gla_slider_flower_c2 {
-	background-image: url(../images/fl2_c2.png);
+	background-image: url(../images/fl2_c2-min.png);
 	width: 400px;
 	height: 496px;
 }
 .gla_slider_flower_ii.gla_slider_flower_c3 {
-	background-image: url(../images/fl2_c3.png);
+	background-image: url(../images/fl2_c3-min.png);
 	width: 400px;
 	height: 365px;
 }
 .gla_slider_flower_ii.gla_slider_flower_c4 {
-	background-image: url(../images/fl2_c4.png);
+	background-image: url(../images/fl2_c4-min.png);
 	width: 400px;
 	height: 441px;
 }
 .gla_slider_flower_ii.gla_slider_flower_c5 {
-	background-image: url(../images/fl2_c5.png);
+	background-image: url(../images/fl2_c5-min.png);
 	width: 500px;
 	height: 171px;
 }
 .gla_slider_flower_ii.gla_slider_flower_c6 {
-	background-image: url(../images/fl2_c6.png);
+	background-image: url(../images/fl2_c6-min.png);
 	width: 500px;
 	height: 199px;
 }
@@ -2819,33 +2819,33 @@ ul.mega-menu {
 
 
 .gla_slider_flower_iii.gla_slider_flower_c1 {
-	background-image: url(../images/fl3_c1.png);
+	background-image: url(../images/fl3_c1-min.png);
 	width: 400px;
 	height: 256px;
 }
 .gla_slider_flower_iii.gla_slider_flower_c2 {
-	background-image: url(../images/fl3_c2.png);
+	background-image: url(../images/fl3_c2-min.png);
 	width: 400px;
 	height: 443px;
 }
 .gla_slider_flower_iii.gla_slider_flower_c3 {
-	background-image: url(../images/fl3_c3.png);
+	background-image: url(../images/fl3_c3-min.png);
 	width: 350px;
 	height: 315px;
 }
 .gla_slider_flower_iii.gla_slider_flower_c4 {
-	background-image: url(../images/fl3_c4.png);
+	background-image: url(../images/fl3_c4-min.png);
 	width: 400px;
 	height: 365px;
 }
 .gla_slider_flower_iii.gla_slider_flower_c5 {
-	background-image: url(../images/fl3_c5.png);
+	background-image: url(../images/fl3_c5-min.png);
 	width: 500px;
 	height: 217px;
 	transform:translateX(-39%);
 }
 .gla_slider_flower_iii.gla_slider_flower_c6 {
-	background-image: url(../images/fl3_c6.png);
+	background-image: url(../images/fl3_c6-min.png);
 	width: 500px;
 	height: 183px;
 }
@@ -2854,7 +2854,7 @@ ul.mega-menu {
 	}
 
 .gla_slider_flower_c1 {
-	background: url(../images/fl1_c1.png);
+	background: url(../images/fl1_c1-min.png);
 	width: 400px;
 	height: 471px;
 	-webkit-background-size: cover;
@@ -2869,7 +2869,7 @@ ul.mega-menu {
 	}
 	
 .gla_slider_flower_c2 {
-	background: url(../images/fl1_c2.png);
+	background: url(../images/fl1_c2-min.png);
 	width: 385px;
 	height: 344px;
 	-webkit-background-size: cover;
@@ -2883,7 +2883,7 @@ ul.mega-menu {
 		top: -300px;
 	}
 .gla_slider_flower_c3 {
-	background: url(../images/fl1_c3.png);
+	background: url(../images/fl1_c3-min.png);
 	width: 380px;
 	height: 476px;
 	-webkit-background-size: cover;
@@ -2897,7 +2897,7 @@ ul.mega-menu {
 		bottom: -300px;
 	}
 .gla_slider_flower_c4 {
-	background: url(../images/fl1_c4.png);
+	background: url(../images/fl1_c4-min.png);
 	width: 590px;
 	height: 290px;
 	-webkit-background-size: cover;
@@ -2911,7 +2911,7 @@ ul.mega-menu {
 		left: -300px;
 	}
 .gla_slider_flower_c5 {
-	background: url(../images/fl1_c5.png);
+	background: url(../images/fl1_c5-min.png);
 	width: 520px;
 	height: 224px;
 	-webkit-background-size: cover;
@@ -2925,7 +2925,7 @@ ul.mega-menu {
 		top: -300px;
 	}
 .gla_slider_flower_c6 {
-	background: url(../images/fl1_c6.png);
+	background: url(../images/fl1_c6-min.png);
 	width: 500px;
 	height: 205px;
 	-webkit-background-size: cover;
@@ -3065,7 +3065,7 @@ ul.mega-menu {
 }
 /*Flower*/
 .gla_flower:after {
-	background: url(../images/flower.png);
+	background: url(../images/flower-min.png);
 	width: 535px;
 	height: 535px;
 	-webkit-background-size: cover;
@@ -3086,7 +3086,7 @@ ul.mega-menu {
   
 }
 .gla_flower2:after {
-	background: url(../images/flower2.png);
+	background: url(../images/flower2-min.png);
 	width: 485px;
 	height: 485px;
 	-webkit-background-size: cover;
@@ -3109,7 +3109,7 @@ ul.mega-menu {
 .gla_flower2:before {
 	display: block;
 	content: '';
-	background: url(../images/flower2_bird.png);
+	background: url(../images/flower2_bird-min.png);
 	width: 120px;
 	height: 115px;
 	position: absolute;
@@ -3143,7 +3143,7 @@ ul.mega-menu {
 }
 
 .gla_flower3:after {
-	background: url(../images/flower3.png);
+	background: url(../images/flower3-min.png);
 	width: 535px;
 	height: 535px;
 	-webkit-background-size: cover;
@@ -3499,7 +3499,7 @@ video#video_background  {
 	.gla_round_im2:after {
 		display: block;
 		content: '';
-		background: url(../images/flower2.png);
+		background: url(../images/flower2-min.png);
 		height: 300px;
 		width: 300px;
 		-webkit-background-size: cover;
@@ -6276,3 +6276,70 @@ header nav.active .gla_logo {
 	font-size: 16px;
 	font-weight: bold;
 }
+
+
+.loader {
+	width: 250px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-family: helvetica, arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: #ce4233;
+	letter-spacing: 0.2em;
+  }
+  .loader::before, .loader::after {
+	content: "";
+	display: block;
+	width: 15px;
+	height: 15px;
+	background: #ce4233;
+	position: absolute;
+	-webkit-animation: load 0.7s infinite alternate ease-in-out;
+			animation: load 0.7s infinite alternate ease-in-out;
+  }
+  .loader::before {
+	top: 0;
+  }
+  .loader::after {
+	bottom: 0;
+  }
+  
+  @-webkit-keyframes load {
+	0% {
+	  left: 0;
+	  height: 30px;
+	  width: 15px;
+	}
+	50% {
+	  height: 8px;
+	  width: 40px;
+	}
+	100% {
+	  left: 235px;
+	  height: 30px;
+	  width: 15px;
+	}
+  }
+  
+  @keyframes load {
+	0% {
+	  left: 0;
+	  height: 30px;
+	  width: 15px;
+	}
+	50% {
+	  height: 8px;
+	  width: 40px;
+	}
+	100% {
+	  left: 235px;
+	  height: 30px;
+	  width: 15px;
+	}
+  }
